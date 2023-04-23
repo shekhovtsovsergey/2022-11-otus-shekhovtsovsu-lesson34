@@ -10,7 +10,6 @@
     </parent>
     <groupId>ru.otus</groupId>
     <artifactId>2022-11-otus-shekhovtsovsu-lesson34</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
     <name>2022-11-otus-shekhovtsovsu-lesson34</name>
     <description>2022-11-otus-shekhovtsovsu-lesson34</description>
     <properties>
